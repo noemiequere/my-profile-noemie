@@ -1,6 +1,7 @@
 
 h1 {
 	color: rgb(25,107,208);
+	font-family: 'Montserrat';
 }
 
 h2 {
@@ -24,7 +25,7 @@ body {
 
 p {
 	color: black;
-	font-family: 'Roboto Condensed', sans-serif;
+	font-family: 'Montserrat';
   }	
 
 a {
